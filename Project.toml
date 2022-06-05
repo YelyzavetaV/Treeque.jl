@@ -8,6 +8,7 @@ Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
 Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
 
 [compat]
+Distances = "0.10"
 julia = "1"
 
 [extras]
